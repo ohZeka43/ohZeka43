@@ -9,7 +9,7 @@
 ### 👨🏻‍💻 Sobre mim:
 
 Olá! Meu nome é **José Guilherme**, tenho **20 anos** e sou apaixonado por tecnologia, programação e segurança da informação.  
-Atualmente estou focado em desenvolvimento de sistemas utilizando linguagens como **Python, Java, C, C++ e JavaScript**, além de ferramentas como **Django** e banco de dados **MySQL**.
+Atualmente estou focado em desenvolvimento de sistemas utilizando linguagens como **Python, Java, C, C++ e JavaScript**, além de ferramentas como **Django**, **React Native** e banco de dados **MySQL**.
 
 Sou movido por desafios, gosto de aprender coisas novas e busco sempre criar soluções reais e funcionais.  
 Também tenho interesse por sistemas Linux, como o **Kali Linux**, voltado para segurança ofensiva.
@@ -41,8 +41,8 @@ Também tenho interesse por sistemas Linux, como o **Kali Linux**, voltado para 
         <br><strong>MySQL</strong>
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" height="40" alt="TypeScript" />
-        <br><strong>TypeScript</strong>
+        <img src="https://img.icons8.com/fluency/48/react-native.png" width="40" height="40" alt="React Native" />
+        <br><strong>React Native</strong>
     </td>
   </tr>
   <tr>
