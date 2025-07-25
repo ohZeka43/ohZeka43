@@ -56,22 +56,16 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" />
-      <br>HTML5
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Wireshark_icon.svg" alt="Redes" width="40" height="40" />
+      <br>Redes
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
-      <br>CSS
+      <img src="https://seeklogo.com/images/C/cisco-packet-tracer-logo-5F4DAFBA20-seeklogo.com.png" alt="Cisco Packet Tracer" width="40" height="40" />
+      <br>Cisco PT
     </td>
     <td align="center" width="96">
       <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="40" height="40" />
       <br>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Wireshark_icon.svg" alt="Redes" width="40" height="40" />
-      <br>Redes
     </td>
   </tr>
 </table>
