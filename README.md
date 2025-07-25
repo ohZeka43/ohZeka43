@@ -4,12 +4,10 @@
 </p>
 
 <h2 align="center">👨🏻‍💻 Sobre mim:</h2>
-<p align="justify">
-  Olá! Meu nome é José Guilherme, tenho 20 anos. <br>
-  Sou apaixonado por tecnologia e por desenvolver sistemas que resolvem problemas do mundo real. <br>
-  Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que gerem valor de verdade. <br>
-  Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.
-</p>
+<p align="justify">Olá! Meu nome é José Guilherme, tenho 20 anos. 
+Sou apaixonado por tecnologia e por desenvolver sistemas que resolvem problemas do mundo real.
+Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que gerem valor de verdade.
+Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
 
 <br>
 
@@ -18,53 +16,53 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" width="40" height="40" alt="Kali Linux"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Kali Linux" width="40" height="40" />
       <br>Kali Linux
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+      <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-network-network-technology-flat-flat-juicy-fish.png" alt="Redes" width="40" height="40" />
+      <br>Redes
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/cisco-anyconnect.png" alt="Cisco Packet Tracer" width="40" height="40" />
+      <br>Cisco PT
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40" />
       <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-      <br>MySQL
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="40" height="40" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+    <td align="center" width="96"> 
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="40" height="40" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://cdn-icons-png.flaticon.com/512/3144/3144456.png" width="40" height="40" alt="Redes"/>
-      <br>Redes
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn-icons-png.flaticon.com/512/8119/8119555.png" width="40" height="40" alt="Packet Tracer"/>
-      <br>Packet Tracer
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="40" height="40" />
       <br>Java
     </td>
   </tr>
@@ -80,6 +78,7 @@
     height="160" 
     src="https://github-readme-stats.vercel.app/api?username=ohZeka43&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
   <img 
     alt="GitHub Top Langs" 
     height="160" 
