@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/ohZeka43/assets@main/kali-dragon-blue.svg" alt="Kali Linux" width="40" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40" />
       <br>Kali Linux
     </td>
     <td align="center" width="96">
