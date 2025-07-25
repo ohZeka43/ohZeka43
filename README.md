@@ -16,7 +16,7 @@ Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Kali_Linux_2.0_wordmark.svg" alt="Kali Linux" width="60" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40" />
       <br>Kali Linux
     </td>
     <td align="center" width="96">
@@ -35,18 +35,18 @@ Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40" />
       <br>MySQL
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40" />
       <br>C
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="40" height="40" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40" />
       <br>GitHub
     </td>
     <td align="center" width="96"> 
