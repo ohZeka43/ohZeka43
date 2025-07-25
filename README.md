@@ -1,4 +1,4 @@
-<h1 align="center">💻  José Guilherme</h1>
+<h1 align="center">🧑‍💻 José Guilherme</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=16FBFF&width=435&lines=Hello+World%2C+let%E2%80%99s+code" />
 </p>
@@ -66,6 +66,12 @@
     <td align="center" width="96">
       <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="40" height="40" />
       <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Wireshark_icon.svg" alt="Redes" width="40" height="40" />
+      <br>Redes
     </td>
   </tr>
 </table>
