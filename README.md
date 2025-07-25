@@ -20,14 +20,6 @@ Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
       <br>Kali Linux
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-network-network-technology-flat-flat-juicy-fish.png" alt="Redes" width="40" height="40" />
-      <br>Redes
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/cisco-anyconnect.png" alt="Cisco Packet Tracer" width="40" height="40" />
-      <br>Cisco PT
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
       <br>Python
     </td>
@@ -39,8 +31,6 @@ Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40" />
       <br>C++
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40" />
       <br>MySQL
@@ -49,6 +39,8 @@ Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40" />
       <br>C
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
       <br>Django
