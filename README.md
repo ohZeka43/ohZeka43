@@ -16,7 +16,7 @@ Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Kali Linux" width="40" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Kali_Linux_2.0_wordmark.svg" alt="Kali Linux" width="60" />
       <br>Kali Linux
     </td>
     <td align="center" width="96">
