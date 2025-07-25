@@ -9,7 +9,7 @@
 ### 👨🏻‍💻 Sobre mim:
 
 Olá! Meu nome é **José Guilherme**, tenho **20 anos** e sou apaixonado por tecnologia, programação e segurança da informação.  
-Atualmente estou focado em desenvolvimento de sistemas utilizando linguagens como **Python, Java, C, C++ e JavaScript**, além de ferramentas como **Django**, **React Native** e banco de dados **MySQL**.
+Atualmente estou focado em desenvolvimento de sistemas utilizando linguagens como **Python, Java, C, C++ e JavaScript**, além de ferramentas como **Django** e banco de dados **MySQL**.
 
 Sou movido por desafios, gosto de aprender coisas novas e busco sempre criar soluções reais e funcionais.  
 Também tenho interesse por sistemas Linux, como o **Kali Linux**, voltado para segurança ofensiva.
@@ -21,7 +21,7 @@ Também tenho interesse por sistemas Linux, como o **Kali Linux**, voltado para 
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40" alt="Kali Linux" />
+        <img src="https://i.ibb.co/zmLkgcJ/kali.png" width="40" height="40" alt="Kali Linux" />
         <br><strong>Kali Linux</strong>
     </td>
     <td align="center" width="96">
@@ -41,8 +41,8 @@ Também tenho interesse por sistemas Linux, como o **Kali Linux**, voltado para 
         <br><strong>MySQL</strong>
     </td>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/fluency/48/react-native.png" width="40" height="40" alt="React Native" />
-        <br><strong>React Native</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+        <br><strong>C</strong>
     </td>
   </tr>
   <tr>
@@ -79,12 +79,12 @@ Também tenho interesse por sistemas Linux, como o **Kali Linux**, voltado para 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=**SEU_USUARIO_AQUI**&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ohZeka43&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     alt="Estatísticas GitHub" 
     height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=**SEU_USUARIO_AQUI**&theme=tokyonight&layout=compact&custom_title=Tecnologias+mais+usadas&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohZeka43&theme=tokyonight&layout=compact&custom_title=Tecnologias+mais+usadas&langs_count=9" 
     alt="Linguagens" 
     height="160"
   />
