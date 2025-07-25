@@ -1,91 +1,87 @@
 <h1 align="center">🧑‍💻 José Guilherme</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=16FBFF&width=435&lines=Hello+World%2C+let%E2%80%99s+code" />
 </p>
 
----
+<h2 align="center">👨🏻‍💻 Sobre mim:</h2>
+<p align="justify">Olá! Meu nome é José Guilherme, tenho 20 anos. 
+Sou apaixonado por tecnologia e por desenvolver sistemas que resolvem problemas do mundo real.
+Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que gerem valor de verdade.
+Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
 
-### 👨🏻‍💻 Sobre mim:
+<br>
 
-Olá! Meu nome é **José Guilherme**, tenho **20 anos** e sou apaixonado por tecnologia, programação e segurança da informação.  
-Atualmente estou focado em desenvolvimento de sistemas utilizando linguagens como **Python, Java, C, C++ e JavaScript**, além de ferramentas como **Django** e banco de dados **MySQL**.
-
-Sou movido por desafios, gosto de aprender coisas novas e busco sempre criar soluções reais e funcionais.  
-Também tenho interesse por sistemas Linux, como o **Kali Linux**, voltado para segurança ofensiva.
-
----
-
-<h2 align="center"> 🤖 Linguagens e Tecnologias </h2>
+<h1 align="center"> 🤖 Linguagens e Tecnologias </h1>
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40" alt="Kali Linux" />
-        <br><strong>Kali Linux</strong>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kali_Linux_2.0_wordmark.svg" alt="Kali" width="40" height="40" />
+      <br>Kali Linux
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
-        <br><strong>Python</strong>
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
+      <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" alt="JavaScript" />
-        <br><strong>JavaScript</strong>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="C++" />
-        <br><strong>C++</strong>
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40" />
+      <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="MySQL" />
-        <br><strong>MySQL</strong>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40" />
+      <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" width="40" height="40" alt="C" />
-        <br><strong>C</strong>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40" />
+      <br>C
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" height="40" alt="Django" />
-        <br><strong>Django</strong>
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
+      <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" />
-        <br><strong>GitHub</strong>
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="40" height="40" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="40" height="40" />
+      <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-        <br><strong>Git</strong>
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" />
+      <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-        <br><strong>HTML5</strong>
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
+      <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
-        <br><strong>CSS</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="40" height="40" alt="Java" />
-        <br><strong>Java</strong>
+      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="40" height="40" />
+      <br>Java
     </td>
   </tr>
 </table>
 
----
+<br>
 
-<h2 align="center"> 📊 Estatísticas do GitHub </h2>
+<h1 align="center"> 📊 Estatísticas </h1>
 
 <p align="center">
   <img 
+    alt="GitHub Stats" 
+    height="160" 
     src="https://github-readme-stats.vercel.app/api?username=ohZeka43&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    alt="Estatísticas GitHub" 
-    height="160"
   />
+
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohZeka43&theme=tokyonight&layout=compact&custom_title=Tecnologias+mais+usadas&langs_count=9" 
-    alt="Linguagens" 
-    height="160"
+    alt="GitHub Top Langs" 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohZeka43&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
