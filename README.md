@@ -18,53 +18,53 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" alt="Kali Linux"/>
       <br>Kali Linux
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40" />
-      <br>MySQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+      <br>C
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C" width="40" height="40" />
-      <br>C
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+      <br>MySQL
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Wireshark_icon.svg" alt="Redes" width="40" height="40" />
+      <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" width="40" height="40" alt="Redes"/>
       <br>Redes
     </td>
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/C/cisco-packet-tracer-logo-5F4DAFBA20-seeklogo.com.png" alt="Cisco Packet Tracer" width="40" height="40" />
-      <br>Cisco PT
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968776.png" width="40" height="40" alt="Cisco Packet Tracer"/>
+      <br>Packet Tracer
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
       <br>Java
     </td>
   </tr>
@@ -80,7 +80,6 @@
     height="160" 
     src="https://github-readme-stats.vercel.app/api?username=ohZeka43&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
   <img 
     alt="GitHub Top Langs" 
     height="160" 
