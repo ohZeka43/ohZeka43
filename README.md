@@ -79,12 +79,12 @@ Também tenho interesse por sistemas Linux, como o **Kali Linux**, voltado para 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=**SEU_USUARIO_AQUI**&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ohZeka43&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     alt="Estatísticas GitHub" 
     height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=**SEU_USUARIO_AQUI**&theme=tokyonight&layout=compact&custom_title=Tecnologias+mais+usadas&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohZeka43&theme=tokyonight&layout=compact&custom_title=Tecnologias+mais+usadas&langs_count=9" 
     alt="Linguagens" 
     height="160"
   />
