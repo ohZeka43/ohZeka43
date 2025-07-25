@@ -4,10 +4,12 @@
 </p>
 
 <h2 align="center">👨🏻‍💻 Sobre mim:</h2>
-<p align="justify">Olá! Meu nome é José Guilherme, tenho 20 anos. 
-Sou apaixonado por tecnologia e por desenvolver sistemas que resolvem problemas do mundo real.
-Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que gerem valor de verdade.
-Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
+<p align="justify">
+  Olá! Meu nome é José Guilherme, tenho 20 anos. <br>
+  Sou apaixonado por tecnologia e por desenvolver sistemas que resolvem problemas do mundo real. <br>
+  Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que gerem valor de verdade. <br>
+  Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.
+</p>
 
 <br>
 
@@ -16,7 +18,7 @@ Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kali_Linux_2.0_wordmark.svg" alt="Kali" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Kali Linux" width="40" height="40" />
       <br>Kali Linux
     </td>
     <td align="center" width="96">
@@ -36,7 +38,7 @@ Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C" width="40" height="40" />
       <br>C
     </td>
   </tr>
@@ -46,10 +48,10 @@ Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="40" height="40" />
-      <br>Github
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40" />
+      <br>GitHub
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="40" height="40" />
       <br>Git
     </td>
