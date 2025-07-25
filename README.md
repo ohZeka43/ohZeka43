@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" alt="Kali Linux"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" width="40" height="40" alt="Kali Linux"/>
       <br>Kali Linux
     </td>
     <td align="center" width="96">
@@ -56,11 +56,11 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" width="40" height="40" alt="Redes"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/3144/3144456.png" width="40" height="40" alt="Redes"/>
       <br>Redes
     </td>
     <td align="center" width="96">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968776.png" width="40" height="40" alt="Cisco Packet Tracer"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/8119/8119555.png" width="40" height="40" alt="Packet Tracer"/>
       <br>Packet Tracer
     </td>
     <td align="center" width="96">
